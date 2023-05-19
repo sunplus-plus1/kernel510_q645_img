@@ -1,4 +1,5 @@
 kernel/drivers/char/hw_random/rng-core.ko:
+kernel/drivers/char/hw_random/optee-rng.ko: kernel/drivers/char/hw_random/rng-core.ko
 kernel/drivers/net/phy/mdio_devres.ko: kernel/drivers/net/mdio/of_mdio.ko kernel/drivers/net/phy/fixed_phy.ko kernel/drivers/net/phy/libphy.ko
 kernel/drivers/net/phy/libphy.ko:
 kernel/drivers/net/phy/fixed_phy.ko: kernel/drivers/net/phy/libphy.ko

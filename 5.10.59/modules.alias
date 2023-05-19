@@ -1,4 +1,5 @@
 # Aliases extracted from modules themselves.
+alias tee:ab7a617c-b8e7-4d8f-8301-d09b61036b64* optee_rng
 alias mdio:0000000000000111110000010011???? microchip
 alias usb:v7392pB811d*dc*dsc*dp*ic*isc*ip*in* 8188eu
 alias usb:v0B05p18F0d*dc*dsc*dp*ic*isc*ip*in* 8188eu
